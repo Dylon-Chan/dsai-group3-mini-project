@@ -15,6 +15,7 @@ Recommend creators on platform, video category, video duration etc.
 2. Tiktok - Weng Siong
 3. Instagram - David
 4. Reddit - Yawei
+5. Dailymotion - Wei Hsien
 
 Scrapping Keywords :
 1. Title
