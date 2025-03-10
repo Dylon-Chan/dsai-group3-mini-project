@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 import isodate
 
 # Define your YouTube API key here
-API_KEY = 'AIzaSyC_IC1EaTKTIb9URBz8fRLAjmsue1MoXQM'
+API_KEY = 'Your Key'
 
 # Initialize the YouTube API client
 youtube = build('youtube', 'v3', developerKey=API_KEY)
