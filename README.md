@@ -24,4 +24,20 @@ Scrapping Keywords :
 4. Number of Likes
 etc
 
+Overall data:
 
+Merge the columns of platform, title, total_engagements (assume to take sum of all engagements e.g. views, likes, comments etc), creation date, video category.
+
+## Persona 1 
+
+I want to create and post a content online to achieve most engagements from internet users.
+
+### Approaches
+- Analyse and compare the total engagements across all platforms and recommend two platforms.
+- Within the two plaforms. analyse the video category, video duration and other metrics in each platform.
+
+## Persona 2
+I want to create and post a content about `<specific video categories>` based on my interests.
+
+### Approaches
+- Compare the top/most video categories in each platform and suggest the platform based on the categories.
